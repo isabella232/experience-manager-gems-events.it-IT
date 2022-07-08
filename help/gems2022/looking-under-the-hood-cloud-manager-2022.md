@@ -7,7 +7,7 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: ba2d7a7f37fd2f1ea0c9888353b73b44fa665cb5
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Descrizione della sessione: Scopri le nuove funzionalità rilasciate nell’ulti
 
 Il contenuto si applica sia ad Adobe Experience Manager as a Cloud Service che ad Experience Manager Managed Services, con particolare attenzione al Cloud Service. È adatto sia ai partecipanti tecnici che a quelli non tecnici. L’esposizione precedente a Cloud Manager può essere utile per il contesto, ma non è necessaria.
 
-### Registrazione webinar
+**Registrazione webinar**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
