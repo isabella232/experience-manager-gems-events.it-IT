@@ -1,35 +1,29 @@
 ---
-title: Panoramica tecnica della piattaforma AEM 6
-description: In questa sessione Peter Klassen - Product Manager, guarda il repository JCR ricaricato, miglioramenti delle prestazioni e nuove opzioni di scalabilità.
+title: Technical overview of the AEM 6 platform
+description: In this session, Peter Klassen - Product Manager, looks JCR Repository reloaded, performance improvements, and new scalability options.
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: adfa8ba5-943b-4363-b810-b452078681ab
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
-
 ---
+# Technical overview of the AEM 6 platform{#technical-overview-of-the-aem-platform}
 
-# Panoramica tecnica della piattaforma AEM 6{#technical-overview-of-the-aem-platform}
-
-In questa sessione Peter Klassen - Product Manager esaminerà quanto segue: Archivio JCR ricaricato - miglioramenti delle prestazioni e nuove opzioni di scalabilità a una vista, mongoDB in AEM 6, dove memorizzare i binari - nuove opzioni DataStore panoramica, operazioni della piattaforma reso facile. Il pubblico mirato per questa sessione sono i partner e i clienti; project manager, architetti e amministratori.
+In this session Peter Klassen - Product Manager will look at the following: JCR Repository reloaded - performance improvements and new scalability options at one sight, mongoDB in AEM 6, where to store binaries - new DataStore options overview, platform operations made easy. The targeted audience for this session are partners and customers; project managers, architects and administrators.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
-*Consegnato l’11 giugno 2014*
+*Delivered June 11, 2014*
 
-**Presentato da:**
+**Presented by:**
 
 Peter Klassen, Product Manager, Adobe
 
-**Diapositive del relatore**
+**Presenter slides**
 
-[Ottieni file](assets/aem6-platform-whatsnew.pdf)
+[Get File](assets/aem6-platform-whatsnew.pdf)
 
-## Collegamenti correlati {#related-links}
+## Related links {#related-links}
 
-* [Note sulla versione di AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [Gestione di AEM 6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Pianificazione dell&#39;aggiornamento a AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 Release Notes](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [Managing AEM 6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [Planning your upgrade to AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

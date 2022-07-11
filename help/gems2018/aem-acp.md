@@ -1,39 +1,33 @@
 ---
-title: Adobe Experience Platform - Il cuore dell'Experience Cloud
-description: Tutto inizia con il Adobe Experience Platform. Scopri in che modo la piattaforma svolge un ruolo nel business delle esperienze, consentendoti di identificare, comprendere e coinvolgere i clienti e fornire esperienze coerenti, continue e coinvolgenti che li deliziano a ogni svolta.
+title: Adobe Experience Platform - The heart of Experience Cloud
+description: Everything starts with the Adobe Experience Platform. Discover how the platform plays a role in the experience business, helping you identify, understand, and engage customers and deliver consistent, continuous, and compelling experiences that delight them at every turn.
 uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 0%
-
 ---
 
+# Adobe Experience Platform - The Heart of Experience Cloud{#adobe-experience-platform-the-heart-of-experience-cloud}
 
-# Adobe Experience Platform - Il cuore dell&#39;Experience Cloud{#adobe-experience-platform-the-heart-of-experience-cloud}
+Everything starts with the Adobe Experience Platform. Discover how the platform plays a role in the experience business, helping you identify, understand, and engage customers and deliver consistent, continuous, and compelling experiences that delight them at every turn. In itself the platform is a System of Record for the Experience Business.  Find out exactly what we mean by platform, including what it is, where it’s heading, how you can get value now and in the future, and even how Adobe partners can get involved. Of course, we won’t just talk about it, you’ll see it in action, too.
 
-Tutto inizia con il Adobe Experience Platform. Scopri in che modo la piattaforma svolge un ruolo nel business delle esperienze, consentendoti di identificare, comprendere e coinvolgere i clienti e fornire esperienze coerenti, continue e coinvolgenti che li deliziano a ogni svolta. Di per sé la piattaforma è un sistema di record per Experience Business.  Scopri esattamente cosa intendiamo per piattaforma, che include cosa si intende, dove si trova, come puoi ottenere valore adesso e in futuro, e anche in che modo i partner di Adobe possono essere coinvolti. Naturalmente, non ne parleremo solo, lo vedrete anche in azione.
+In this session, learn how:
 
-In questa sessione, scopri come:
-
-* Componenti che compongono Adobe Experience Platform - Servizi dati
-* Data Science Workspace migliora notevolmente la progettazione e la distribuzione di esperienze cliente avanzate
-* Primi passaggi per l’integrazione con Adobe Experience Platform e l’utilizzo di Experience Data Model
-* Opzioni di integrazione attuali e future per sviluppatori di terze parti
+* The components that make up Adobe Experience Platform – Data Services
+* Data Science Workspace dramatically improves the design and delivery of rich customer experiences
+* First steps in integrating with Adobe Experience Platform & using Experience Data Model
+* Current and future integration options for third party developers
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*08/08/2018*
+*Delivered 08/08/2018*
 
-**Presentato da:**
+**Presented by:**
 
 Klaasjan Tukker, Director Product Management, Adobe
 
-Data: 08/08/2018
+Date: 08/08/2018
 
-[Ottieni file](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
+[Get File](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

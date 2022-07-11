@@ -1,35 +1,29 @@
 ---
-title: MSM e traduzione - best practice
-description: Questo webinar esamina l'intersezione di MSM e la traduzione per i siti web multilingue. Affidiamo le complessità introdotte dalla traduzione, le raccomandazioni per la struttura del sito e un breve confronto di connettori e strumenti di traduzione per vari casi d'uso.
+title: MSM and translation - best practices
+description: This webinar examines the intersection of MSM and translation for multilingual websites. We cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases.
 uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
 exl-id: 7e691407-b1be-440c-a04b-290dadef113f
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 3%
-
 ---
+# MSM and Translation: Best Practices {#msm-and-translation-best-practices}
 
-# MSM e traduzione: Best practice {#msm-and-translation-best-practices}
+This webinar examines the intersection of MSM and translation for multilingual websites. We cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases. 
 
-Questo webinar esamina l&#39;intersezione di MSM e la traduzione per i siti web multilingue. Affidiamo le complessità introdotte dalla traduzione, le raccomandazioni per la struttura del sito e un breve confronto di connettori e strumenti di traduzione per vari casi d&#39;uso.
+**Presented by:**
 
-**Presentato da:**
+Christine Duran, Sr Translation Technology Group Manager, Adobe
 
-Christine Duran, Adobe di Sr Translation Technology Group Manager
+**Presenter slides**
 
-**Diapositive del relatore**
+[Get File](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 
-[Ottieni file](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
+## Related links {#related-links}
 
-## Collegamenti correlati {#related-links}
+The original content of this GEM session from 2013 has been replaced. The information was out-of-date.
 
-Il contenuto originale della sessione GEM del 2013 è stato sostituito. Le informazioni erano obsolete.
+Instead read more about Best Practices in the Adobe Experience Manager documentation:
 
-Per ulteriori informazioni sulle best practice, consulta la documentazione di Adobe Experience Manager:
-
-* [Best practice per la gestione multisito](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
-* [Best practice per la traduzione](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Torna alla panoramica](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Multi-site Management Best Practices](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [Translation Best Practices](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
+* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,34 +1,28 @@
 ---
 title: Cloud Manager 2022
-description: Questo webinar AEM GEMs includerà una presentazione e una demo sui seguenti argomenti:Esplora le nuove funzionalità rilasciate nell'ultimo anno, un aggiornamento sul dietro le quinte ... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
+description: This AEM GEMs webinar will include a presentation and demo on the following:Explore the new features released in the last year, an update on behind-the-scenes … (Descriptions should be between 60 and 160 characters)
 version: Experience Manager
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
-workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
-
 ---
 
+# Looking under the hood - Cloud Manager 2022
 
-# Guardando sotto il cofano - Cloud Manager 2022
+*This webinar has been conducted on June 15th - 3pm UTC. Please view the recording below.*
 
-*Questo webinar è stato condotto dal 15 giugno alle 17:00 UTC. Visualizza la registrazione qui sotto.*
+Session description:
+Explore the new features released in the last year, an update on behind-the-scenes developments, and a look forward into the rest of 2022. Details about how Cloud Manager works under the hood and how a customer can make the best use of it.  
 
-Descrizione della sessione: Scopri le nuove funzionalità rilasciate nell’ultimo anno, un aggiornamento sugli sviluppi del dietro le quinte e uno sguardo al resto del 2022. Dettagli su come Cloud Manager funziona sotto il cappuccio e su come un cliente può utilizzarlo al meglio.  
+The content applies to both Adobe Experience Manager as a Cloud Service and Experience Manager Managed Services, with a focus on Cloud Service. It’s suitable for technical and nontechnical attendees alike. Prior exposure to Cloud Manager can help for context, but it isn’t necessary.
 
-Il contenuto si applica sia ad Adobe Experience Manager as a Cloud Service che ad Experience Manager Managed Services, con particolare attenzione al Cloud Service. È adatto sia ai partecipanti tecnici che a quelli non tecnici. L’esposizione precedente a Cloud Manager può essere utile per il contesto, ma non è necessaria.
-
-**Registrazione webinar**
+**Webinar Recording**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
->* Per le interazioni specifiche della comunità di sessione sull&#39;Experience League, visita questo [Thread contestuale](https://adobe.ly/3O0rdzd)
->* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/).
-
+>* For session specific community interactions on Experience League, please visit this [Contextual Thread](https://adobe.ly/3O0rdzd)
+>* To receive automatic notifications regarding webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
