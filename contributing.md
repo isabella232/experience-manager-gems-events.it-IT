@@ -1,53 +1,46 @@
-# Contributing
+---
+source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
+workflow-type: tm+mt
+source-wordcount: '296'
+ht-degree: 100%
 
-Thanks for choosing to contribute!
+---
+# Contributi
 
-The following are a set of guidelines to follow when contributing to this project.
+Grazie per aver scelto di offrire il tuo contributo.
 
-## Code Of Conduct
+Di seguito sono elencate alcune linee guida a cui attenersi quando si decide di contribuire a questo progetto.
 
-This project adheres to the Adobe [code of conduct](code-of-conduct.md). By participating,
-you are expected to uphold this code. Please report unacceptable behavior to
+## Codice di condotta
+
+Il progetto aderisce al [Codice di condotta](code-of-conduct.md) di Adobe. Con la tua partecipazione, accetti di rispettare questo codice. Puoi segnalare eventuali condotte scorrette a 
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Contributor Guide Documentation
+## Documentazione relativa alla Guida per i collaboratori
 
-See the [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulta la [Guida per i collaboratori](https://docs.adobe.com/content/help/it/contributor/contributor-guide/introduction.html).
 
-## Have A Question?
+## Hai una domanda?
 
-Start by filing an issue. The existing committers on this project work to reach
-consensus around project direction and issue solutions within issue threads
-(when appropriate).
+Inizia segnalando un problema. I collaboratori attualmente impegnati su questo progetto mirano ad acquisire consenso sulla direzione del progetto e sull’identificazione di soluzioni ai problemi all’interno dei thread di problemi (se opportuno).
 
-## Contributor License Agreement
+## Contratto di licenza per i collaboratori
 
-All third-party contributions to this project must be accompanied by a signed contributor
-license agreement. This gives Adobe permission to redistribute your contributions
-as part of the project. [Sign our CLA](http://opensource.adobe.com/cla.html). You
-only need to submit an Adobe CLA one time, so if you have submitted one previously,
-you are good to go!
+Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un accordo di licenza del contributore firmata. In tal modo è concesso ad Adobe il permesso di ridistribuire i contributi come parte del progetto. [Firma il contratto di licenza](http://opensource.adobe.com/cla.html). È sufficiente inoltrare un CLA di Adobe una sola volta; se ne è già stato inviato uno in passato, non è necessario ripetere questa operazione.
 
-## Code Reviews
+## Revisioni del codice
 
-All submissions should come in the form of pull requests and need to be reviewed
-by project committers. Read [GitHub's pull request documentation](https://help.github.com/articles/about-pull-requests/)
-for more information on sending pull requests.
+Tutte le richieste devono essere presentate sotto forma di richieste pull e devono essere riviste dai committenti dei progetti. Per ulteriori informazioni sull’invio di richieste pull, leggi la [documentazione sulle richieste pull di GitHub](https://help.github.com/articles/about-pull-requests/).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## From Contributor To Committer
+## Da collaboratore a committente
 
-We love contributions from our community! If you'd like to go a step beyond contributor
-and become a committer with full write access and a say in the project, you must
-be invited to the project. The existing committers employ an internal nomination
-process that must reach lazy consensus (silence is approval) before invitations
-are issued. If you feel you are qualified and want to get more deeply involved,
-feel free to reach out to existing committers to have a conversation about that.
+Apprezziamo i contributi della nostra community. Se desideri essere qualcosa di più di un collaboratore e diventare un committente con accesso completo in scrittura e avere voce in capitolo sul progetto, devi essere invitato al progetto. I committenti esistenti utilizzano un processo di designazione interno che deve raggiungere il consenso approssimativo (il silenzio rappresenta l’approvazione) prima di inviare gli inviti. Se ritieni di essere qualificato e desideri un coinvolgimento maggiore, rivolgiti ai committenti esistenti per parlarne con loro.
 
-## Security Issues
+## Problemi di sicurezza
 
-Security issues shouldn't be reported on this issue tracker. Instead, [file an issue to our security experts](https://helpx.adobe.com/security/alertus.html)
+I problemi di sicurezza non devono essere segnalati in questo strumento di gestione dei problemi, ma puoi [segnalarli ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html).

@@ -1,6 +1,6 @@
 ---
-title: AEM GEM Sessions
-description: This is the landing page for AEM GEMs including information on the webinar series and registration info, previous and upcoming webinars
+title: Sessioni GEM AEM
+description: Questa è la pagina di destinazione di GEM AEM incluse informazioni sulla serie di webinar e sulle informazioni di registrazione, webinar precedenti e in arrivo
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -9,41 +9,46 @@ solution: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: AEM GEM Sessions
+user-guide-description: Sessioni GEM AEM
+source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 2%
 
 ---
+
 # Adobe Experience Manager Gems
 
-<img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
+<img alt="Esperienze digitali" src="./assets/ADX_Gems.png"/>
 
-## 2022 Relaunch of AEM GEMs
+## Rilancio di GEM AEM 2022
 
-Welcome to **AEM GEMs** - our webinar series of technical deep dives on Adobe Experience Manager, delivered by Adobe experts. This series is a complement of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.
+Benvenuti a **GEM AEM** - la nostra serie di webinar di approfondimenti tecnici su Adobe Experience Manager, forniti da esperti Adobi. Questa serie è un complemento della documentazione del prodotto e di tutti gli altri canali tecnici relativi ad Adobe Experience Manager, che consente agli sviluppatori di mettersi in contatto e approfondire un argomento specifico.
 
-The webinars will be conducted regularly, including the following:
+I webinar saranno condotti regolarmente, tra cui:
 
-* A maximum duration of 60 minutes
-* Q&A at the end and chat experts available throughout the webinar
-* Recording available after each webinar
-* Webinar is free of charge
+* Una durata massima di 60 minuti
+* Domande e risposte alla fine e chat esperti disponibili in tutto il webinar
+* Registrazione disponibile dopo ogni webinar
+* Webinar gratuito
 
-## Upcoming Webinar and Registration
+## Webinar e registrazione in arrivo
 
-All our AEM GEMs webinars are free of charge and conducted virtually. 
-* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about our upcoming webinars.
+Tutti i nostri webinar GEM AEM sono gratuiti e condotti virtualmente.
+* Per favore, registratevi presso [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/) per ricevere notifiche sui nostri prossimi webinar.
 
-## Experience League Community
+## Community Experience League
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Nostro [Community Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) svolgere un ruolo fondamentale nel supportare l&#39;adozione dei prodotti e il successo dei clienti.
 
-* Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
-* Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
-* Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams
+* Connessione: Rete con colleghi e personale Adobe per assistenza e best practice, dall&#39;implementazione all&#39;espansione dell&#39;utilizzo dei prodotti
+* Risposte rapide: Ampio pool di casi d’uso reali per supportare un utilizzo attivo di successo delle soluzioni Adobe
+* Ideazione e feedback: Acquisire idee sui prodotti dei clienti e fornire un feedback VoC prezioso ai team di prodotto
 
-## Previous webinar recording
+## Registrazione webinar precedente
 
-Our last webinar was about **Integrate AEM & CIF framework to build a rich and immersive e-commerce experience** and was conducted April 27th.
+Il nostro ultimo webinar era su **Integrare il framework AEM e CIF per creare un&#39;esperienza di e-commerce ricca e coinvolgente** e fu condotto il 27 aprile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
-This webinar was presented by Kunal Gaba & Vinay Kumar, both Technical Architects at Adobe.
+Questo webinar è stato presentato da KTribunal Gaba &amp; Vinay Kumar, entrambi architetti tecnici ad Adobe.

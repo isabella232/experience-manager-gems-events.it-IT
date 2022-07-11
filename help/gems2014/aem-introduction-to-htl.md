@@ -1,34 +1,40 @@
 ---
-title: Introduction to HTL
-description: Get an introduction to HTL, a new templating engine and language implementation. HTL endeavors to supersede JSP as scripting language for Apache Sling and CQ/AEM components and strives to clearly separate presentation and logic concerns.
+title: Introduzione a HTL
+description: Introduzione a HTL, un nuovo motore di modelli e implementazione del linguaggio. HTL si sforza di sostituire JSP come linguaggio di script per i componenti Apache Sling e CQ/AEM e si sforza di separare chiaramente i problemi di presentazione e logica.
 uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
 exl-id: c1e7125b-bea3-40c8-b43d-9b969713ca57
----
-# Introduction to HTL{#introduction-to-htl}
+source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
+workflow-type: tm+mt
+source-wordcount: '174'
+ht-degree: 2%
 
-HTL is a new templating engine and language implementation. HTL endeavors to supersede JSP as scripting language for Apache Sling and CQ/AEM components and strives to clearly separate presentation and logic concerns. Security measures such as XSS prevention are automatically applied. Another major advantage of HTL is that it is based purely on HTML5, thus allowing 3rd party agencies to focus on design related parts of a CQ/AEM project without CQ/AEM knowledge. HTL is not limited to Java environments, through the pluggable compiler interface it can be implemented on many different platforms such as node.js and php.
+---
+
+# Introduzione a HTL{#introduction-to-htl}
+
+HTL è un nuovo motore di modelli e implementazione del linguaggio. HTL si sforza di sostituire JSP come linguaggio di script per i componenti Apache Sling e CQ/AEM e si sforza di separare chiaramente i problemi di presentazione e logica. Misure di sicurezza come la prevenzione XSS vengono applicate automaticamente. Un altro vantaggio importante di HTL è che si basa esclusivamente su HTML5, consentendo così alle agenzie di terze parti di concentrarsi su parti relative al design di un progetto CQ/AEM senza conoscenza di CQ/AEM. HTL non è limitato agli ambienti Java, tramite l’interfaccia del compilatore pluggable può essere implementato su molte piattaforme diverse come node.js e php.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*Delivered June 25, 2014*
+*Consegnato il 25 giugno 2014*
 
-**Presented by:**
+**Presentato da:**
 
 Gabriel Walt, Product Manager, Adobe
 
-**Presenter slides**
+**Diapositive del relatore**
 
-[Get File](assets/sightly-component-development.pdf)
+[Ottieni file](assets/sightly-component-development.pdf)
 
-**Session Questions and Answers**
+**Domande e risposte sulla sessione**
 
-[Get File](assets/introduction-to-sightly-q-as.pdf)
+[Ottieni file](assets/introduction-to-sightly-q-as.pdf)
 
-## Related links {#related-links}
+## Collegamenti correlati {#related-links}
 
-[Developing with HTL](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
+[Sviluppo con HTL](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

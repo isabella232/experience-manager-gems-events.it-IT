@@ -1,24 +1,30 @@
 ---
-title: Tools to use for testing Adobe Experience Manager applications
-description: From Unit Testing to Integration Test of an Experience Manager Application Automated testing is indispensable for developing any application. This presentation walks through the various tools for testing Java code starting with the basics of unit testing up to functional and integration testing. Learn how to easily add tests in the most effective way to your code base, regardless of whether you want to test a simple utility method, some OSGi service, or an HTTP endpoint.
+title: Strumenti da utilizzare per il test delle applicazioni Adobe Experience Manager
+description: Dal testing di unità al test di integrazione di un'applicazione Experience Manager Il test automatico è indispensabile per lo sviluppo di qualsiasi applicazione. Questa presentazione illustra i vari strumenti per testare il codice Java, a partire dalle nozioni di base del testing di unità fino al testing funzionale e di integrazione. Scopri come aggiungere facilmente i test nel modo più efficace alla base di codice, indipendentemente dal fatto che desideri testare un semplice metodo di utilità, un servizio OSGi o un endpoint HTTP.
 uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
 exl-id: 98f27ea1-705d-4e8e-a5f0-a6561b879545
----
-# Tools to use for testing Adobe Experience Manager applications{#tools-to-use-for-testing-adobe-experience-manager-applications}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 1%
 
-From Unit Testing to Integration Test of an Experience Manager Application Automated testing is indispensable for developing any application. This presentation walks through the various tools for testing Java code starting with the basics of unit testing up to functional and integration testing. Learn how to easily add tests in the most effective way to your code base, regardless of whether you want to test a simple utility method, some OSGi service, or an HTTP endpoint.
+---
+
+# Strumenti da utilizzare per il test delle applicazioni Adobe Experience Manager{#tools-to-use-for-testing-adobe-experience-manager-applications}
+
+Dal testing di unità al test di integrazione di un&#39;applicazione Experience Manager Il test automatico è indispensabile per lo sviluppo di qualsiasi applicazione. Questa presentazione illustra i vari strumenti per testare il codice Java, a partire dalle nozioni di base del testing di unità fino al testing funzionale e di integrazione. Scopri come aggiungere facilmente i test nel modo più efficace alla base di codice, indipendentemente dal fatto che desideri testare un semplice metodo di utilità, un servizio OSGi o un endpoint HTTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 
-*Presented December 14, 2016*
+*Presentato il 14 dicembre 2016*
 
-**Robert Munteanu and Carsten Ziegeler**
+**Robert Munteanu e Carsten Ziegeler**
 
-**Presenter slides**
+**Diapositive del relatore**
 
-[Get File](assets/aem-gems-tools-for-testing-12-14-16.pdf)
+[Ottieni file](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

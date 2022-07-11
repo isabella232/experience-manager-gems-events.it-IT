@@ -1,32 +1,38 @@
 ---
-title: Customize dialog fields in Touch UI
-description: Learn how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. Discover how things that were previously done with ExtJS (Classic UI) can now be done using Granite UI and Coral UI.
+title: Personalizzare i campi di dialogo nell’interfaccia Touch
+description: Scopri come implementare campi personalizzati (o widget) per le finestre di dialogo dell’interfaccia utente touch in AEM 6.1. Scopri come eseguire le operazioni precedentemente eseguite con ExtJS (interfaccia classica) utilizzando l’interfaccia Granite e l’interfaccia Coral.
 uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: 8f7d0072-b741-46af-8f4e-6ea6705f3a33
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 1%
+
 ---
-# Customize dialog fields in Touch UI{#customizing-dialog-fields-in-touch-ui}
 
-In this session, we will explain how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. The goal is to show you how things that were previously done with ExtJS (Classic UI) could now be done using Granite UI and Coral UI:
+# Personalizzare i campi di dialogo nell’interfaccia Touch{#customizing-dialog-fields-in-touch-ui}
 
-* Creating a new field
-* Extending an existing field
-* Handling validation
-* Handling events
+In questa sessione, spiegheremo come implementare campi personalizzati (o widget) per le finestre di dialogo dell’interfaccia utente touch nella AEM 6.1. L’obiettivo è quello di mostrare come è ora possibile eseguire le operazioni precedentemente eseguite con ExtJS (interfaccia classica) utilizzando l’interfaccia Granite e l’interfaccia utente Coral:
+
+* Creazione di un nuovo campo
+* Estensione di un campo esistente
+* Gestione della convalida
+* Gestione degli eventi
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*Delivered October 7, 2015*
+*Consegnato il 7 ottobre 2015*
 
-**Presented by:**
+**Presentato da:**
 
-* Christanto Leonardo, Senior Developer, Adobe
-* Christian Meyer, Developer, Adobe
+* Christanto Leonardo, Sviluppatore senior, Adobe
+* Christian Meyer, Sviluppatore, Adobe
 
-**Presenter slides**
+**Diapositive del relatore**
 
-[Get File](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
+[Ottieni file](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

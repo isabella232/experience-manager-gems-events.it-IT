@@ -1,31 +1,37 @@
 ---
-title: Dispatcher caching - New features and optimizations
-description: Learn how to fine tune your AEM Dispatcher cache. Learn about the newest features in AEM dispatcher and some ways you can optimize your cache. The session covers new features added between versions 4.1.0 and 4.1.9.
+title: Memorizzazione in cache di Dispatcher - Nuove funzioni e ottimizzazioni
+description: Scopri come ottimizzare la cache del Dispatcher AEM. Scopri le funzioni più recenti di AEM dispatcher e alcuni modi per ottimizzare la cache. La sessione tratta le nuove funzioni aggiunte tra le versioni 4.1.0 e 4.1.9.
 uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
 exl-id: 06da2cc5-9cf3-4b4a-bff1-9f2ff75f27da
----
-# Dispatcher caching - New features and optimizations{#dispatcher-caching-new-features-and-optimizations}
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 3%
 
-To maximize your AEM experience, it is important that you fine tune your AEM Dispatcher cache. Learn about the newest features in AEM dispatcher and some ways you can optimize your cache. The session covers new features added between versions 4.1.0 and 4.1.9.
+---
+
+# Memorizzazione in cache di Dispatcher - Nuove funzioni e ottimizzazioni{#dispatcher-caching-new-features-and-optimizations}
+
+Per massimizzare la tua esperienza AEM, è importante ottimizzare la cache del Dispatcher AEM. Scopri le funzioni più recenti di AEM dispatcher e alcuni modi per ottimizzare la cache. La sessione tratta le nuove funzioni aggiunte tra le versioni 4.1.0 e 4.1.9.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19378/?quality=9)
 
-*Delivered January 28, 2015*
+*Consegnato il 28 gennaio 2015*
 
-**Presented by:**
+**Presentato da:**
 
 * Dominique Pfister, Senior Computer Scientist, Adobe
-* Andrew Khoury, CS Engineer, Adobe
+* Andrew Khoury, ingegnere CS, Adobe
 
-**Presenter slides - part 1**
+**Diapositive del relatore - parte 1**
 
-[Get File](assets/aemgems-dispatcher-caching-part1-jan-28-2015.pdf)
+[Ottieni file](assets/aemgems-dispatcher-caching-part1-jan-28-2015.pdf)
 
-**Presenter slides - part 2**
+**Diapositive del relatore - parte 2**
 
-[Get File](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
+[Ottieni file](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

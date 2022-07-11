@@ -1,27 +1,33 @@
 ---
-title: AEM 6.1 translation integration & best practices
-description: Get a presentation about enhanced translation integration capabilities in AEM. Learn best practices for managing multilingual web sites.
+title: Integrazione delle traduzioni AEM 6.1 e best practice
+description: Visualizza una presentazione delle funzionalità di integrazione della traduzione avanzate in AEM. Scopri le best practice per la gestione di siti web multilingue.
 uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
 exl-id: f0b36ac8-d77f-4a35-9a56-2afb37216718
----
-# AEM 6.1 translation integration & best practices{#aem-translation-integration-best-practices}
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 2%
 
-Cristine and Mathias will present enhanced translation integration capabilities in AEM and best practices for managing multilingual web sites. You will learn how to: structure global websites in AEM use language copies/ live copies/ MSM how to integrate translation service providers for successful completion of translation projects
+---
+
+# Integrazione delle traduzioni AEM 6.1 e best practice{#aem-translation-integration-best-practices}
+
+Cristine e Mathias presenteranno funzionalità di integrazione della traduzione avanzate in AEM e best practice per la gestione di siti web multilingue. Scoprirai come: strutturare siti web globali in AEM utilizzare copie in lingua / Live Copies/ MSM come integrare fornitori di servizi di traduzione per il completamento di progetti di traduzione
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*Delivered September 30, 2015*
+*Consegnato il 30 settembre 2015*
 
-**Presented by:**
+**Presentato da:**
 
-* Christine Duran, Sr Manager Translation Technologies, Adobe
+* Christine Duran, Sr Manager Tecnologie di traduzione, Adobe
 * Mathias Siegel, Sr Product Manager, Adobe
 
-**Presenter slides**
+**Diapositive del relatore**
 
-[Get File](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
+[Ottieni file](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

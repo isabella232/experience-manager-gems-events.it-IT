@@ -1,29 +1,35 @@
 ---
-title: Introducing the AEM Modernization Suite
-description: Learn how to convert static template pages to editable templates. Learn how to convert custom or legacy components to Core Component Proxies, and more.
+title: Introduzione alla suite di modernizzazione AEM
+description: Scopri come convertire le pagine dei modelli statici in modelli modificabili. Scopri come convertire componenti personalizzati o legacy in proxy componenti core e altro ancora.
 uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '158'
+ht-degree: 1%
+
 ---
 
-# Introducing the AEM Modernization Suite{#introducing-the-aem-modernization-suite}
 
-Some Customers still rely on the Classic UI for their AEM Sites authoring experience. With the deprecation of this interface, a Summit lab was proposed to help our customers update their implementations to the newest capabilities. To support the Lab and provide our customers with the necessary means, Bryan Stopp and Gilles Knobloch created the AEM Modernization Tool Suite.  Come learn about this new tool’s capabilities to: 
+# Introduzione alla suite di modernizzazione AEM{#introducing-the-aem-modernization-suite}
 
-* Convert Static Template Pages to Editable Templates
-* Convert Custom/Legacy components to Core Component Proxies (or other custom Components)
-* Import and Convert Component Designs as Editable Template Policies
-* And (of course) Update Classic/Coral2 Dialogs to Coral 3 Dialogs  
+Alcuni clienti si affidano ancora all’interfaccia classica per la propria esperienza di authoring AEM Sites. Con la deprecazione di questa interfaccia, è stato proposto un laboratorio Summit per aiutare i nostri clienti ad aggiornare le loro implementazioni alle funzionalità più recenti. Per supportare il Lab e fornire ai nostri clienti i mezzi necessari, Bryan Stopp e Gilles Knobloch hanno creato la AEM Modernization Tool Suite.  Scopri le funzionalità di questo nuovo strumento per:
+
+* Convertire pagine di modelli statici in modelli modificabili
+* Convertire componenti personalizzati/legacy in proxy componenti core (o altri componenti personalizzati)
+* Importare e convertire progettazioni di componenti come criteri di modelli modificabili
+* E (naturalmente) Aggiorna le finestre di dialogo Classic/Coral2 alle finestre di dialogo Coral 3
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Delivered 05/08/19*
+*08/05/19*
 
-**Presented by:**
+**Presentato da:**
 
-* Bryan Stopp, AEM Technical Architect, Adobe
+* Bryan Stopp, Architetto Tecnico AEM, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presenter slides**
+**Diapositive del relatore**
 
-[Get File](assets/modernization-toolsaemgems.pdf)
+[Ottieni file](assets/modernization-toolsaemgems.pdf)

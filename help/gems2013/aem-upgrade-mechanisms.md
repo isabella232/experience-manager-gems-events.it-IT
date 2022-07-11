@@ -1,30 +1,36 @@
 ---
-title: AEM 5.6 upgrade mechanisms
-description: Learn about upgrade mechanisms in CQ/AEM, which allows upgrading CQ itself as well as custom applications and content, by just replacing the CQ/AEM jar file with the new one. We'll go over the general upgrade scenario, describe the upgrade extension points, explain how we test the upgrade mechanisms and comment on some of the technical challenges related to upgrading.
+title: Meccanismi di aggiornamento AEM 5.6
+description: Scopri i meccanismi di aggiornamento in CQ/AEM, che consente di aggiornare CQ stesso, nonché le applicazioni e i contenuti personalizzati, semplicemente sostituendo il file jar CQ/AEM con il nuovo. Esamineremo lo scenario generale di aggiornamento, descriveremo i punti di estensione dell’aggiornamento, spiegheremo come testiamo i meccanismi di aggiornamento e commenteremo alcune delle sfide tecniche relative all’aggiornamento.
 uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
 exl-id: 58d5acde-7914-4772-b10a-a34ba72cdd55
----
-# AEM 5.6 upgrade mechanisms {#aem-upgrade-mechanisms}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 1%
 
-This session describes the upgrade mechanisms in CQ/AEM, which allow upgrading CQ itself as well as custom applications and content, by just replacing the CQ/AEM jar file with the new one. We'll go over the general upgrade scenario, describe the upgrade extension points, explain how we test the upgrade mechanisms and comment on some of the technical challenges related to upgrading.
+---
+
+# Meccanismi di aggiornamento AEM 5.6 {#aem-upgrade-mechanisms}
+
+Questa sessione descrive i meccanismi di aggiornamento in CQ/AEM, che consentono di aggiornare CQ stesso e le applicazioni e i contenuti personalizzati, semplicemente sostituendo il file jar CQ/AEM con il nuovo. Esamineremo lo scenario generale di aggiornamento, descriveremo i punti di estensione dell’aggiornamento, spiegheremo come testiamo i meccanismi di aggiornamento e commenteremo alcune delle sfide tecniche relative all’aggiornamento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*Delivered May 22, 2013*
+*Consegnato il 22 maggio 2013*
 
-**Presented by:**
+**Presentato da:**
 
-Bertrand Delacretaz, Senior Developer, Adobe
+Bertrand Delacretaz, Sviluppatore senior, Adobe
 
-**Presenter slides**
+**Diapositive del relatore**
 
-[Get File](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
+[Ottieni file](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 
-## Related links {#related-links}
+## Collegamenti correlati {#related-links}
 
-[Documentation](http://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
+[Documentazione](http://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

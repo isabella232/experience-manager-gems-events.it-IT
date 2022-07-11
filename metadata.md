@@ -4,27 +4,33 @@ solution: Experience Manager
 product: adobe experience manager
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-manager-gems-events.en
-index: yes
+git-repo: https://github.com/AdobeDocs/experience-manager-gems-events.it-IT
+index: true
+source-git-commit: 34a9797488b4ad73feba99d4ae76a79df8df7418
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 96%
+
 ---
 
-# Metadata for internal use
 
-The metadata.md file includes repo-level metadata that passes through to user guide TOC.md files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file.
+# Metadati per uso interno
 
-| metadata | what it does |
+Il file metadata.md include metadati a livello di archivio che vengono trasmessi ai file TOC.md della guida utente nell’archivio. Se desideri modificare il contenuto di metadata.md per una guida utente, puoi farlo intervenendo su un file TOC.md.
+
+| Metadati | Funzione |
 |--- |--- |
-| solution-title | Used in article header as link |
-| solution-hub-url | Opens helpx hub page |
-| solution-icon | Displays solution icon next to solution title. Not yet implemented |
-| getting-started-url | Link to helpx getting started page |
-| tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
-| mini-toc-levels | Determines the number of heading levels that appear in right rail. default is 2 |
-| git-repo | Specifies the location of the master repo for internal use |
+| solution-title | Utilizzato nell’intestazione dell’articolo come collegamento |
+| solution-hub-url | Apre la pagina centrale della guida helpx |
+| solution-icon | Visualizza l’icona della soluzione accanto al titolo della soluzione. Non ancora implementato |
+| getting-started-url | Collegamento per la pagina introduttiva della guida helpx |
+| tutorials-url | Collegamento per i tutorial video: esercitazioni nella guida helpx o su KT |
+| mini-toc-levels | Determina quanti livelli di intestazione vengono visualizzati nella barra a destra. Il valore predefinito è 2. |
+| git-repo | Specifica la posizione dell’archivio principale per uso interno |
 
-In TOC.md file
+In un file TOC.md
 
-| metadata | what it does |
+| Metadati | Funzione |
 |--- |--- |
-| user-guide-title | Used in article header as link |
-| user-guide-url | Opens helpx hub page |
+| user-guide-title | Utilizzato nell’intestazione dell’articolo come collegamento |
+| user-guide-url | Apre la pagina centrale della guida helpx |
