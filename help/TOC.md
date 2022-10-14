@@ -3,7 +3,7 @@ user-guide-title: Eventi Adobe Experience Manager GEMS
 user-guide-description: Scopri AEM Gems, una serie di approfondimenti tecnici offerti dagli esperti Adobe Experience Manager.
 breadcrumb-title: Eventi GEM AEM
 feature-set: Experience Manager
-source-git-commit: 963a6c4169c6bc81e9801e0b5e676d50473c7d1f
+source-git-commit: a79a6bf9f22e7ba171bdb08a1be27978c669ef63
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 3%
@@ -15,22 +15,22 @@ ht-degree: 3%
 
 + [Panoramica](overview.md)
    + [Webinar in arrivo](/help/announcements.md)
-+ 2022{#gems2022}
++ 2022 {#gems2022}
    + [Caso d’uso del cliente e implementazione di AEM headless in uso](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Guardando sotto il cofano - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Integrare il framework AEM e CIF per creare un&#39;esperienza di e-commerce ricca e coinvolgente](gems2022/aem-and-cif-framework-integration.md)
    + [Crea siti web più velocemente con AEM Headless e App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: Revisione del 2021 e prospettive per il 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
-+ 2020{#gems2020}
++ 2020 {#gems2020}
    + [AEM 6.5 pronto per il mondo - integrazione della traduzione e best practice](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
-+ 2019{#gems2019}
++ 2019 {#gems2019}
    + [Novità di Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [Dive AEM Rich Text Editor (RTE)](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Informazioni approfondite sui dettagli di implementazione di archivi, moduli e segmenti in ContextHub](gems2019/contexthub-deep-dive.md)
    + [Creazione di esperienze omnicanale headless con AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [Introduzione alla suite di modernizzazione AEM](gems2019/introducing-the-aem-modernization-suite.md)
    + [Utilizzo dell’authoring-publish per AEM Screens](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ 2018{#gems2018}
++ 2018 {#gems2018}
    + [Approfondimento di Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Il cuore dell&#39;Experience Cloud](gems2018/aem-acp.md)
    + [In tempo reale e leggero: creare integrazioni basate su eventi con AEM utilizzando gli eventi Adobe I/O](gems2018/aem-adobe-io.md)
@@ -47,7 +47,7 @@ ht-degree: 3%
    + [SPA Editor SDK immersione profonda - parte 1 - react](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA Editor profondamente dive - parte 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [Utilizzo di OSGi R7 in AEM](gems2018/using-osgi-r7-in-aem.md)
-+ 2017{#gems2017}
++ 2017 {#gems2017}
    + [Versione principale del brand portal e nuova implementazione di riferimento per Asset Share](/help/gems2017/aem-brand-portal.md)
    + [Costruire controlli di integrità per AEM](/help/gems2017/aem-building-health-checks-for-aem.md)
    + [Sviluppo di bundle e servizi OSGi per AEM](/help/gems2017/aem-developing-osgi-bundles-services-for-aem.md)
@@ -63,7 +63,7 @@ ht-degree: 3%
    + [AEM 6.3 pronto per il mondo - Integrazione della traduzione e best practice](/help/gems2017/aem-translation-best-practices.md)
    + [Risoluzione dei problemi AEM replica](/help/gems2017/aem-troubleshooting-aem-replication.md)
    + [Risolvere i problemi relativi alla distribuzione dei contenuti sling](/help/gems2017/aem-troubleshooting-sling.md)
-+ 2016{#gems2016}
++ 2016 {#gems2016}
    + [Configurare DAM per Enterprise](/help/gems2016/aem-configuring-dam-for-enterprise.md)
    + [Introduzione a AEM Screens](/help/gems2016/aem-introduction-to-aem-screens.md)
    + [Gestisci i contenuti con l’editor modelli di Adobe Experience Manager](/help/gems2016/aem-managing-content-with-template-editor.md)
@@ -74,7 +74,7 @@ ht-degree: 3%
    + [Strumenti da utilizzare per il test delle applicazioni Adobe Experience Manager](/help/gems2016/aem-testing-tools-for-aem-apps.md)
    + [Utilizzare SAML nelle distribuzioni Adobe Experience Manager](/help/gems2016/aem-utilizing-saml-in-aem-deployments.md)
    + [Prestazioni web AEM](/help/gems2016/aem-web-performance.md)
-+ 2015{#gems2015}
++ 2015 {#gems2015}
    + [Integrazione delle traduzioni AEM 6.1 e best practice](/help/gems2015/aem-6-1-translation-integration-and-best-practices.md)
    + [Creare community online con AEM 6.1](/help/gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [Personalizzare i campi di dialogo nell’interfaccia Touch](/help/gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
@@ -88,7 +88,7 @@ ht-degree: 3%
    + [AEM Tech sneak peek](/help/gems2015/aem-tech-sneak-peek.md)
    + [Suggerimenti [!DNL AEM Sites] Interfaccia touch](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [Tracciare le metriche di qualità del progetto JavaScript](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ 2014{#gems2014}
++ 2014 {#gems2014}
    + [Distribuzione di Adobe Analytics in un&#39;istanza AEM locale tramite il servizio cloud DTM](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [Come ottenere il massimo dal pacchetto di funzioni DAM](/help/gems2014/aem-dam-feature-pack.md)
    + [Distribuzione di contenuti gestiti alle app native](/help/gems2014/aem-delivering-managed-content-to-your-native-apps.md)
@@ -105,7 +105,7 @@ ht-degree: 3%
    + [Approfondimento tecnico nella piattaforma AEM 6](/help/gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [Panoramica tecnica della piattaforma AEM 6](/help/gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [Personalizzazione dell&#39;interfaccia utente per AEM 6](/help/gems2014/aem-user-interface-customization-for-aem6.md)
-+ 2013{#gems2013}
++ 2013 {#gems2013}
    + [Architettura della piattaforma AEM 5.6](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [Risoluzione dei problemi di CQ/AEM 5.6](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [Framework di integrazione di eCommerce](/help/gems2013/aem-ecommerce-integration-framework.md)
@@ -119,7 +119,7 @@ ht-degree: 3%
    + [Meccanismi di aggiornamento AEM 5.6](/help/gems2013/aem-upgrade-mechanisms.md)
 
 <!---
-+ [Archive]{#archive}
++ [Archive] {#archive}
     + [AEM 6 Oak: MongoMK and Queries](archive/aem-oak-mongomk-and-queries.md)
     + [Search forms made easy with the AEM querybuilder](archive/aem-search-forms-using-querybuilder.md)
     + [Deep Dive on implementation details of stores, modules and segments in ContextHub](archive/contexthub-deep-dive.md)
