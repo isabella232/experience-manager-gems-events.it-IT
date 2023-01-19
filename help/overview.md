@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sessioni GEM AEM
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '311'
 ht-degree: 1%
 
 ---
@@ -43,13 +43,12 @@ ht-degree: 1%
 </table>
 
 --->
-Webinar AEM GEMs: *AEM Best Practices Analyzer per gli ambienti on-premise AMS*.
-Tempo: Gennaio 18, 17 CET / 8 PST / 9.30 IST Risorsa: [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-Registrazione: [Registrazione webinar](https://aem-augs.adobe.com/e/mz8eae/)
+Webinar più recente AEM GEMs: *AEM Best Practices Analyzer per gli ambienti on-premise AMS*.
+Condotto: Gennaio 18, 17 CET / 8 PST / 9.30 IST Risorsa: [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> Iscriviti per ricevere le notifiche sulle prossime sessioni GEMS all&#39;indirizzo [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/).
+> Iscriviti per ricevere le notifiche sui prossimi webinar GEM AEM all&#39;indirizzo [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/).
 
 ## Rilancio di GEM AEM 2022
 
@@ -76,8 +75,8 @@ Nostro [Community Experience Manager](https://experienceleaguecommunities.adobe.
 
 ## Registrazione webinar precedente
 
-Il nostro ultimo webinar era su **Integrare il framework AEM e CIF per creare un&#39;esperienza di e-commerce ricca e coinvolgente** e fu condotto il 27 aprile.
+Il nostro ultimo webinar era su **AEM Best Practices Analyzer per gli ambienti on-premise AMS** e fu condotto il 18 gennaio 2023.
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-Questo webinar è stato presentato da KTribunal Gaba &amp; Vinay Kumar, entrambi architetti tecnici ad Adobe.
+Per i dettagli della sessione, compresi una descrizione e le informazioni del relatore, visitare il sito [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).
