@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # AEM Best Practices Analyzer per gli ambienti on-premise AMS
 
-## Tempo: 18 gennaio 2023
-
-## Registrazione
-
-Per questo webinar, registratevi tramite [Adobe AEM gruppo di utenti](https://aem-augs.adobe.com/).
+## Questo webinar è stato consegnato il 18 gennaio 2023 - si prega di vedere la registrazione qui sotto
 
 ## Descrizione
 
@@ -34,3 +30,12 @@ AEM Best Practices Analyzer non è applicabile per AEM ambienti as a Cloud Servi
 * Kiran Murugula, architetto senior del cloud, Adobe
 * Vaibhav Varshney, Informatica, Adobe
 * Himani Chauhan, Informatica, Adobe
+
+## Registrazione webinar - 18/01/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* Per le interazioni specifiche della comunità di sessione sull&#39;Experience League, visita questo [Thread contestuale](https://bit.ly/3Z6AyM1)
+>* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/).
