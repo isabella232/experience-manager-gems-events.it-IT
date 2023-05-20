@@ -1,20 +1,20 @@
 ---
-title: AEM di manutenzione - Best practice per l’implementazione AEM release di manutenzione
-description: Unisciti a noi per conoscere le best practice per la distribuzione AEM release di manutenzione, ad esempio Service Pack e Cumulative Fix Pack. Verranno inoltre affrontate le sfide comuni relative all’implementazione di tali soluzioni e verranno dimostrati i miglioramenti effettuati in package manager. In questa sessione imparerai le best practice, le convalide e i suggerimenti per il monitoraggio delle distribuzioni dei rilasci di manutenzione.
+title: Sostegno AEM - Best practice per l’implementazione delle versioni di manutenzione AEM
+description: Unisciti a noi per scoprire le best practice per l’implementazione delle versioni di manutenzione AEM, ovvero Service Pack e Cumulative Fix Pack. Verranno inoltre illustrate le problematiche comuni relative all'implementazione di tali funzionalità e verranno illustrati i miglioramenti apportati al gestore dei pacchetti. In questa sessione imparerai le best practice, le convalide e i suggerimenti per il monitoraggio per le distribuzioni delle versioni di manutenzione.
 uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 10da88cc-1612-4996-9b78-f453dbec0efe
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 1%
 
 ---
 
+# Sostegno AEM - Best practice per l’implementazione delle versioni di manutenzione AEM{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 
-# AEM di manutenzione - Best practice per l’implementazione AEM release di manutenzione{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
-
-Unisciti a noi per conoscere le best practice per la distribuzione AEM release di manutenzione, ad esempio Service Pack e Cumulative Fix Pack. Verranno inoltre affrontate le sfide comuni relative all’implementazione di tali soluzioni e verranno dimostrati i miglioramenti effettuati in package manager. In questa sessione imparerai le best practice, le convalide e i suggerimenti per il monitoraggio delle distribuzioni dei rilasci di manutenzione.
+Unisciti a noi per scoprire le best practice per l’implementazione delle versioni di manutenzione AEM, ovvero Service Pack e Cumulative Fix Pack. Verranno inoltre illustrate le problematiche comuni relative all&#39;implementazione di tali funzionalità e verranno illustrati i miglioramenti apportati al gestore dei pacchetti. In questa sessione imparerai le best practice, le convalide e i suggerimenti per il monitoraggio per le distribuzioni delle versioni di manutenzione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18982/?quality=9)
 
@@ -22,10 +22,10 @@ Unisciti a noi per conoscere le best practice per la distribuzione AEM release d
 
 **Presentato da:**
 
-* Gurpreet Singh Bhatia, Ingegnere Software Leader, AEM Ingegneria Sostenente, Adobe
-* Karanjeet Singh, Senior Software Engineer, AEM Sostenimento Ingegneria, Adobe
+* Gurpreet Singh Bhatia, Lead Software Engineer, Ingegneria di supporto AEM, Adobe
+* Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

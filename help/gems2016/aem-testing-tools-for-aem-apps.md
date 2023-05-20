@@ -1,6 +1,6 @@
 ---
-title: Strumenti da utilizzare per il test delle applicazioni Adobe Experience Manager
-description: Dal testing di unità al test di integrazione di un'applicazione Experience Manager Il test automatico è indispensabile per lo sviluppo di qualsiasi applicazione. Questa presentazione illustra i vari strumenti per testare il codice Java, a partire dalle nozioni di base del testing di unità fino al testing funzionale e di integrazione. Scopri come aggiungere facilmente i test nel modo più efficace alla base di codice, indipendentemente dal fatto che desideri testare un semplice metodo di utilità, un servizio OSGi o un endpoint HTTP.
+title: Strumenti da utilizzare per testare le applicazioni Adobe Experience Manager
+description: Dal testing di unità al test di integrazione di un'applicazione Experience Manager Il test automatizzato è indispensabile per lo sviluppo di qualsiasi applicazione. Questa presentazione illustra i vari strumenti per testare il codice Java, partendo dalle nozioni di base sul testing di unità fino al testing funzionale e di integrazione. Scopri come aggiungere facilmente i test nel modo più efficace alla base di codice, indipendentemente dal fatto che si desideri testare un semplice metodo di utilità, un servizio OSGi o un endpoint HTTP.
 uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 1%
 
 ---
 
-# Strumenti da utilizzare per il test delle applicazioni Adobe Experience Manager{#tools-to-use-for-testing-adobe-experience-manager-applications}
+# Strumenti da utilizzare per testare le applicazioni Adobe Experience Manager{#tools-to-use-for-testing-adobe-experience-manager-applications}
 
-Dal testing di unità al test di integrazione di un&#39;applicazione Experience Manager Il test automatico è indispensabile per lo sviluppo di qualsiasi applicazione. Questa presentazione illustra i vari strumenti per testare il codice Java, a partire dalle nozioni di base del testing di unità fino al testing funzionale e di integrazione. Scopri come aggiungere facilmente i test nel modo più efficace alla base di codice, indipendentemente dal fatto che desideri testare un semplice metodo di utilità, un servizio OSGi o un endpoint HTTP.
+Dal testing di unità al test di integrazione di un&#39;applicazione Experience Manager Il test automatizzato è indispensabile per lo sviluppo di qualsiasi applicazione. Questa presentazione illustra i vari strumenti per testare il codice Java, partendo dalle nozioni di base sul testing di unità fino al testing funzionale e di integrazione. Scopri come aggiungere facilmente i test nel modo più efficace alla base di codice, indipendentemente dal fatto che si desideri testare un semplice metodo di utilità, un servizio OSGi o un endpoint HTTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 
@@ -22,7 +22,7 @@ Dal testing di unità al test di integrazione di un&#39;applicazione Experience 
 
 **Robert Munteanu e Carsten Ziegeler**
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--

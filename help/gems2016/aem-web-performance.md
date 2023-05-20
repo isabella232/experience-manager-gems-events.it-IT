@@ -1,6 +1,6 @@
 ---
-title: Prestazioni Web AEM
-description: Consentire a esperienze web complesse in tempi rapidi è una sfida. In questo discorso, Joel farà luce su alcune delle insidie più comuni. Includerà la teoria, gli esempi, le best practice e la dimostrazione degli strumenti.
+title: Prestazioni web AEM
+description: Distribuire rapidamente esperienze web complesse è difficile. In questo discorso, Joel farà luce su alcune delle insidie più comuni. Sono inclusi teoria, esempi, best practice e dimostrazione di strumenti.
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
@@ -12,19 +12,19 @@ ht-degree: 1%
 
 ---
 
-# Prestazioni Web AEM{#aem-web-performance}
+# Prestazioni web AEM{#aem-web-performance}
 
-Consentire a esperienze web complesse in tempi rapidi è una sfida. In questo discorso, Joel farà luce su alcune delle insidie più comuni. Includerà la teoria, gli esempi, le best practice e la dimostrazione degli strumenti nelle seguenti aree - Rete e latenza: ottimizzazioni per HTTP/1.1 e HTTP/2 - Richieste server lente AEM: problemi di identificazione - JavaScript: minimizzare le spese generali
+Distribuire rapidamente esperienze web complesse è difficile. In questo discorso, Joel farà luce su alcune delle insidie più comuni. Include teoria, esempi, best practice e dimostrazioni degli strumenti relativi alle seguenti aree - Rete e latenza: ottimizzazioni per HTTP/1.1 e HTTP/2 - Richieste server AEM lente: identificazione dei problemi - JavaScript: riduzione al minimo del sovraccarico
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*Consegnato il 1° giugno 2016*
+*Consegnato il 1 giugno 2016*
 
 **Presentato da:**
 
-* Joel Richard, Sviluppatore, Adobe
+* Joel Richard, Adobe per sviluppatori
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/aem-gems-060116-web-performance.pdf)
 

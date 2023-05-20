@@ -1,41 +1,43 @@
 ---
-title: AEM Best Practices Analyzer per gli ambienti on-premise AMS
-description: Best Practices Analyzer è uno strumento che fornisce funzionalità di analisi e reporting per le istanze di AEM on-premise e AMS. Genera una valutazione dell’implementazione AEM corrente indicando le aree che non seguono le best practice consigliate, fornendo al contempo indicazioni su come intervenire per risolvere eventuali problemi.
+title: Best Practices Analyzer dell’AEM per gli ambienti locali e AMS
+description: Best Practices Analyzer è uno strumento che fornisce funzionalità di analisi e di reporting per quanto riguarda le istanze AEM on-premise e AMS. Genera una valutazione dell’attuale implementazione dell’AEM indicando le aree che non seguono le best practice consigliate, fornendo al contempo indicazioni su come intervenire per risolvere potenziali problemi.
 version: 6.5
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
+exl-id: 3b1aece7-72a0-4948-80de-b4d87479aa60
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# AEM Best Practices Analyzer per gli ambienti on-premise AMS
+# Best Practices Analyzer dell’AEM per gli ambienti locali e AMS
 
-## Questo webinar è stato consegnato il 18 gennaio 2023 - si prega di vedere la registrazione qui sotto
+## Questo webinar è stato consegnato il 18 gennaio 2023 - consulta la registrazione di seguito
 
 ## Descrizione
 
-Best Practices Analyzer è uno strumento che fornisce funzionalità di analisi e reporting per AEM le istanze on-premise e AMS. Genera una valutazione dell’implementazione AEM corrente indicando le aree che non seguono le best practice consigliate, fornendo al contempo indicazioni su come intervenire per risolvere eventuali problemi. La motivazione è semplice; l&#39;identificazione e la risoluzione di un solo utilizzo improprio all&#39;interno dell&#39;ambiente AEM ha il potenziale di migliorare l&#39;esperienza dell&#39;utente, ridurre il debito tecnico e, di conseguenza, ridurre il costo totale di proprietà (TCO). Quindi, perché non prendere il tempo per vedere se ci sono opportunità di miglioramento.
-AEM Best Practices Analyzer non è applicabile per AEM ambienti as a Cloud Service.
+Best Practices Analyzer è uno strumento che fornisce funzionalità di analisi e reporting per le istanze AEM on-premise e AMS. Genera una valutazione dell’attuale implementazione dell’AEM indicando le aree che non seguono le best practice consigliate, fornendo al contempo indicazioni su come intervenire per risolvere potenziali problemi. La motivazione è semplice; identificare e risolvere solo 1 uso improprio all&#39;interno dell&#39;ambiente AEM ha il potenziale di migliorare l&#39;esperienza utente, ridurre il debito tecnico e, di conseguenza, ridurre il costo totale di proprietà. Quindi perché non prenderci il tempo di vedere se ci sono opportunità di miglioramento.
+Best Practices Analyzer per l’AEM non è applicabile agli ambienti as a Cloud Service all’AEM.
 
 ### Presentatori
 
 * Aditi Dutt Chaudhuri, Sr. Product Manager, Adobe
-* Saurabh Saxena, Direttore Tecnico, Adobe
-* Kiran Murugulla, architetto senior del cloud, Adobe
-* Vaibhav Varshney, Informatica, Adobe
-* Himani Chauhan, Informatica, Adobe
+* Saurabh Saxena, direttore tecnico, Adobe
+* Kiran Murugulla, Senior Cloud Architect, Adobe
+* Vaibhav Varshney, informatico, Adobe
+* Himani Chauhan, Informatico, Adobe
 
-## Registrazione webinar - 18/01/2023
+## Registrazione webinar - 01/18/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
 >[!NOTE]
 >
->* Per le interazioni specifiche della comunità di sessione sull&#39;Experience League, visita questo [Thread contestuale](https://bit.ly/3Z6AyM1)
->* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/).
+>* Per le interazioni della community specifiche per sessione su Experience League, visita questo [Thread contestuale](https://bit.ly/3Z6AyM1)
+>* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+

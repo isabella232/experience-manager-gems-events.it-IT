@@ -1,6 +1,6 @@
 ---
-title: Immergiti nel processo di aggiornamento AEM
-description: Scopri lo scenario generale di aggiornamento, i punti di estensione dell’aggiornamento e come testare i meccanismi di aggiornamento. Scopri alcune delle problematiche tecniche relative all’aggiornamento. Ottieni informazioni su possibili scenari di aggiornamento e di valutazione laterale, suggerimenti su come rendere il processo più veloce e vedere funzionalità avanzate.
+title: Approfondimento del processo di aggiornamento dell’AEM
+description: Scopri lo scenario generale di aggiornamento, i punti di estensione dell’aggiornamento e come testare i meccanismi di aggiornamento. Scopri alcune delle problematiche tecniche relative all’aggiornamento. Ottieni informazioni su possibili scenari di aggiornamento e di livello secondario, suggerimenti su come rendere il processo più veloce e consulta le funzioni avanzate.
 uuid: 2468da9b-178a-4fff-bf8e-57a3b0548d5c
 discoiquuid: 86781dba-fe73-46f9-a5d0-a4f04c0c1fc5
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 3%
 
 ---
 
-# Immergiti nel processo di aggiornamento AEM{#deep-dive-into-aem-upgrade-process}
+# Approfondimento del processo di aggiornamento dell’AEM{#deep-dive-into-aem-upgrade-process}
 
-Scopri lo scenario generale di aggiornamento, i punti di estensione dell’aggiornamento e come testare i meccanismi di aggiornamento. Scopri alcune delle problematiche tecniche relative all’aggiornamento. Ottieni informazioni su possibili scenari di aggiornamento e di valutazione laterale, suggerimenti su come rendere il processo più veloce e vedere funzionalità avanzate.
+Scopri lo scenario generale di aggiornamento, i punti di estensione dell’aggiornamento e come testare i meccanismi di aggiornamento. Scopri alcune delle problematiche tecniche relative all’aggiornamento. Ottieni informazioni su possibili scenari di aggiornamento e di livello secondario, suggerimenti su come rendere il processo più veloce e consulta le funzioni avanzate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
@@ -22,14 +22,14 @@ Scopri lo scenario generale di aggiornamento, i punti di estensione dell’aggio
 
 **Presentato da:**
 
-* Bertrand Delacretaz, Scienziato Principale, Adobe
-* Sviluppatore software Tomek Rekawek, Adobe
+* Bertrand Delacretaz, Principal Scientist, Adobe
+* Adobe per lo sviluppatore di software Tomek Rekawek
 
-Presentazione - Delacretaz
+Presenter slides - Delacretaz
 
 [Ottieni file](assets/aemgems-upgrades-2015-bdelacretaz.pdf)
 
-Diapositive del relatore - Rekawek
+Diapositive presentatore - Rekawek
 
 [Ottieni file](assets/aemgems-upgrades-2015-trekaewk.pdf)
 <!--

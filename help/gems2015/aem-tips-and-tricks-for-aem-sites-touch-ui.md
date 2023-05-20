@@ -1,6 +1,6 @@
 ---
 title: Suggerimenti per l’interfaccia utente touch di AEM Sites
-description: Scopri i consigli e i trucchi più interessanti su [!DNL AEM Sites] Interfaccia touch. Scopri le funzioni dell’interfaccia Touch che potresti conoscere o meno e che ti permettono di ottenere di più e farlo più velocemente. Che tu sia uno stratega dei contenuti o un addetto al marketing dei contenuti, scoprirai alcune delle gemme nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
+description: Scopri i suggerimenti più interessanti su [!DNL AEM Sites] Interfaccia utente touch. Scopri le funzioni dell’interfaccia utente touch di cui potresti essere a conoscenza o meno, che ti consentono di ottenere di più e di farlo più rapidamente. Che tu sia uno stratega dei contenuti o un esperto di marketing dei contenuti, scoprirai alcune delle perle nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
@@ -12,14 +12,14 @@ ht-degree: 0%
 
 ---
 
-# Suggerimenti [!DNL AEM Sites] Interfaccia touch{#tips-and-tricks-for-aem-sites-touch-ui}
+# Suggerimenti per [!DNL AEM Sites] Interfaccia utente touch{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Scopri i consigli e i trucchi più interessanti su [!DNL AEM Sites] Interfaccia touch. Scopri le funzioni dell’interfaccia Touch che potresti conoscere o meno e che ti permettono di ottenere di più e farlo più velocemente. Che tu sia uno stratega dei contenuti o un addetto al marketing dei contenuti, scoprirai alcune delle gemme nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
+Scopri i suggerimenti più interessanti su [!DNL AEM Sites] Interfaccia utente touch. Scopri le funzioni dell’interfaccia utente touch di cui potresti essere a conoscenza o meno, che ti consentono di ottenere di più e di farlo più rapidamente. Che tu sia uno stratega dei contenuti o un esperto di marketing dei contenuti, scoprirai alcune delle perle nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
 
 In questo GEM, scopri come:
 
-* Navigazione e ricerca efficienti dei contenuti
-* Organizzare i contenuti e collaborare su di essi
+* Navigare e trovare i contenuti in modo efficiente
+* Organizzazione dei contenuti e collaborazione
 * Panoramica di ciò che accade
 * Contenuto autore
 
@@ -30,7 +30,7 @@ In questo GEM, scopri come:
 **Presentato da:**
 
 * Gabriel Walt, Product Manager, Adobe
-* Gilles Knobloch, Engineering Manager, Adobe
+* Gilles Knobloch, Direttore tecnico, Adobe
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

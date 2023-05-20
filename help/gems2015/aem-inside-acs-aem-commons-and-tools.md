@@ -1,6 +1,6 @@
 ---
-title: ACS AEM Commons e strumenti
-description: In questa sessione, Justin Edelson, Global Evangelist for AEM and co-project lead of ACS AEM Commons and ACS AEM Tools fornirà un po' di background sull'obiettivo e sui processi utilizzati da questi progetti open source per AEM e demo alcune delle caratteristiche chiave.
+title: All’interno di ACS AEM Commons and Tools
+description: In questa sessione, Justin Edelson, Global Evangelist per AEM e co-project lead di ACS AEM Commons e ACS AEM Tools forniranno informazioni sull'obiettivo e i processi utilizzati da questi progetti open source per l'AEM e dimostreranno alcune delle caratteristiche chiave.
 uuid: aef962ac-5e21-4582-9da2-cdfa6f5f18ff
 discoiquuid: 3210944a-4a03-495a-b652-3c9e54ecbc22
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 1%
 
 ---
 
-# ACS AEM Commons e strumenti{#inside-acs-aem-commons-tools}
+# All’interno di ACS AEM Commons &amp; Tools{#inside-acs-aem-commons-tools}
 
-In questa sessione, Justin Edelson, Global Evangelist for AEM and co-project lead of ACS AEM Commons and ACS AEM Tools fornirà un po &#39;di background sull&#39;obiettivo e sui processi utilizzati da questi progetti open source per AEM e demo alcune delle caratteristiche principali, tra cui:
+In questa sessione, Justin Edelson, Global Evangelist per AEM e co-project lead di ACS AEM Commons e ACS AEM Tools forniranno informazioni sull&#39;obiettivo e i processi utilizzati da questi progetti open source per l&#39;AEM e dimostreranno alcune delle caratteristiche chiave, tra cui:
 
-* [!UICONTROL Regole di svuotamento del dispatcher]
-* [!UICONTROL Generatore di mappa del sito]
-* [!UICONTROL AEM]
+* [!UICONTROL Regole di svuotamento del Dispatcher]
+* [!UICONTROL Generatore mappa del sito]
+* [!UICONTROL AEM Fiddle]
 * [!UICONTROL Elenchi generici]
 * [!UICONTROL Cloud Service Typekit]
 
@@ -28,9 +28,9 @@ In questa sessione, Justin Edelson, Global Evangelist for AEM and co-project lea
 
 **Presentato da:**
 
-* Justin Edelson, Evangelista per AEM, Adobe
+* Justin Edelson, evangelista per l&#39;AEM, Adobe
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/08262015-commons-and-tools.pptx)
 <!--

@@ -1,21 +1,21 @@
 ---
-title: Eventi Adobe Developer (IO) - Triggers di Analytics
-description: 'Combina la potenza dell’architettura basata su eventi e il riconoscimento dei pattern di comportamento dei clienti in tempo reale: questa sessione illustra come sfruttare la potenza degli attivatori di Analytics tramite gli eventi di Adobe Developer (Adobe I/O) per reagire al comportamento dei clienti e rieseguire il targeting in tempo quasi reale.'
+title: Eventi Adobe Developer (IO) - Trigger di Analytics
+description: 'Combinare la potenza dell’architettura basata sugli eventi e il riconoscimento in tempo reale del comportamento dei clienti: questa sessione illustra come sfruttare la potenza degli eventi Analytics Triggers tramite Adobe Developer (Adobe I/O) per reagire al comportamento dei clienti e rieseguire il targeting quasi in tempo reale.'
 uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 8d9d0330-ec29-4458-876d-7e89a89827f3
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
 
 ---
 
+# Eventi Adobe Developer (IO) - Trigger di Analytics{#adobe-i-o-events-analytics-triggers}
 
-# Eventi Adobe Developer (IO) - Triggers di Analytics{#adobe-i-o-events-analytics-triggers}
-
-Combina la potenza dell’architettura basata su eventi e il riconoscimento dei pattern di comportamento dei clienti in tempo reale: questa sessione illustra come sfruttare la potenza dei trigger di Analytics tramite eventi di Adobe I/O per reagire al comportamento dei clienti e rieseguire il targeting in tempo quasi reale.
+Combinare la potenza dell’architettura basata sugli eventi e il riconoscimento in tempo reale del comportamento dei clienti: questa sessione illustra come sfruttare la potenza di Analytics Triggers tramite eventi Adobe I/O per reagire al comportamento dei clienti e eseguire un retargeting quasi in tempo reale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
@@ -23,9 +23,9 @@ Combina la potenza dell’architettura basata su eventi e il riconoscimento dei 
 
 **Presentato da:**
 
-Sarah Xu, Sviluppatore Evangelist, Adobe
+Sarah Xu, Adobe Evangelista per sviluppatori
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
@@ -35,8 +35,8 @@ Sarah Xu, Sviluppatore Evangelist, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Solr come indice Oak per AEM](solr-as-an-oak-index-for-aem.md)
->* [Sblocco di Asset Analytics più potente con AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [Solr come indice Oak per l’AEM](solr-as-an-oak-index-for-aem.md)
+>* [Sblocco Di Un’Analisi Più Potente Delle Risorse Con AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

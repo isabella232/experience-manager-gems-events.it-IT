@@ -1,30 +1,30 @@
 ---
-title: Mantenimento di Open Source mantenendo la tua sanità
-description: Mantenere i progetti open source può essere difficile. I progetti open source di successo possono richiedere molto tempo e spesso si finisce per sentirsi colpevoli perché si sente di non passare abbastanza tempo a lavorarci. Impara un certo numero di cose che possono aiutarti a rimanere in cima al tuo progetto senza i sentimenti colpevoli.
+title: Mantenimento di Open Source e integrità mentale
+description: Mantenere progetti open source può essere difficile. Progetti open source di successo possono richiedere molto tempo e spesso ti senti in colpa perché non trascorri abbastanza tempo a lavorarci. Impara una serie di cose che possono aiutarti a stare al passo con il tuo progetto senza i sentimenti di colpevolezza.
 uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 5ffc3b2b-ca26-4627-8eab-00ed1a2b5b13
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 1%
 
 ---
 
+# Mantenimento Dell&#39;Open Source Mantenendo La Sanità{#maintaining-open-source-while-maintaining-your-sanity}
 
-# Mantenimento dell&#39;open source pur mantenendo la vostra Sanità{#maintaining-open-source-while-maintaining-your-sanity}
-
-Mantenere i progetti open source può essere difficile. I progetti open source di successo possono richiedere molto tempo e spesso si finisce per sentirsi colpevoli perché si sente di non passare abbastanza tempo a lavorarci. Non siete soli! Sono un collaboratore open source da molto tempo e manutentore principale di Apache Cordova da oltre 8 anni. Ho imparato una serie di cose che possono aiutarti a rimanere al di sopra del tuo progetto senza i sentimenti colpevoli.
+Mantenere progetti open source può essere difficile. Progetti open source di successo possono richiedere molto tempo e spesso ti senti in colpa perché non trascorri abbastanza tempo a lavorarci. Tu non sei sola! Sono stato un collaboratore open source per molto tempo e un responsabile di base di Apache Cordova per oltre 8 anni. Ho imparato una serie di cose che possono aiutarti a stare al passo con il tuo progetto senza i sentimenti di colpevolezza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23713/?quality=9)
 
-*Data di consegna 12/09/2018*
+*Consegnato il 09/12/2018*
 
 **Presentato da:**
 
-Simon Mac Donald, Developer Advocate, Adobe
+Simon Mac Donald, Adobe: Developer Advocate
 
-Data: 12/09/2018
+Data: 09/12/2018
 
 [Ottieni file](assets/maintaining-open-source-while-maintaining-your-sanity-gems-091218.pdf)
 

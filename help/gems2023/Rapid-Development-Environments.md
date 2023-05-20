@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
+exl-id: 262360f8-95af-4fe1-90c5-5490cea00c6c
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Accelerazione dello sviluppo as a Cloud Service AEM con ambienti di sviluppo rapido
 
@@ -41,3 +41,4 @@ Gli RDE consentono agli sviluppatori di implementare e rivedere rapidamente le m
 >
 >* Per le interazioni della community specifiche per sessione su Experience League, visita questo [Thread contestuale](http://bit.ly/3x1Cl8x)
 >* Per ricevere notifiche sui prossimi webinar, registrati al seguente indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+

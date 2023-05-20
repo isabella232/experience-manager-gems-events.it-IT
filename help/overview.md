@@ -1,6 +1,6 @@
 ---
-title: Sessioni GEM AEM
-description: Questa è la pagina di destinazione di GEM AEM incluse informazioni sulla serie di webinar e sulle informazioni di registrazione, webinar precedenti e in arrivo
+title: Sessioni AEM GEM
+description: Pagina iniziale dedicata ai GEM dell’AEM, con informazioni sulla serie di webinar, informazioni sulla registrazione, webinar precedenti e futuri
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -9,7 +9,7 @@ solution: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: Sessioni GEM AEM
+user-guide-description: Sessioni AEM GEM
 source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="Esperienze digitali" src="./assets/ADX_Gems.png"/>
 
-## Evento precedente AEM GEMs!
+## Precedente evento AEM GEMs!
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,34 +43,34 @@ ht-degree: 2%
 </table>
 
 --->
-Il nostro ultimo webinar AEM GEM su **Accelerazione dello sviluppo dei Cloud Service Adobe Experience Manager con ambienti di sviluppo rapidi** è stato condotto *22 febbraio 2023*.
-La **registrazione** si trova qui: [Webinar sugli ambienti di sviluppo rapido AEM](/help/gems2023/Rapid-Development-Environments.md)
+Il nostro ultimo webinar AEM GEMs su **Accelerazione dello sviluppo di Cloud Service Adobe Experience Manager con ambienti di sviluppo rapido** è stato eseguito il *22 febbraio 2023*.
+Il **registrazione** si trova qui: [Webinar sugli ambienti di sviluppo rapido dell’AEM](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
-> Iscriviti per ricevere le notifiche sui prossimi webinar GEM AEM all&#39;indirizzo [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/).
+> Iscriviti per ricevere notifiche sui prossimi webinar AEM GEMs all’indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
 
-## Rilancio di GEM AEM 2022
+## Rilancio 2022 dei GEM dell’AEM
 
-Benvenuti a **GEM AEM** - la nostra serie di webinar di approfondimenti tecnici su Adobe Experience Manager, forniti da esperti Adobi. Questa serie è un complemento della documentazione del prodotto e di tutti gli altri canali tecnici relativi ad Adobe Experience Manager, che consente agli sviluppatori di mettersi in contatto e approfondire un argomento specifico.
+Benvenuti in **AEM GEM** : la nostra serie di webinar di approfondimenti tecnici su Adobe Experience Manager, condotti da esperti Adobi. Questa serie è un complemento della documentazione di prodotto e di tutti gli altri canali tecnici relativi ad Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.
 
 I webinar saranno condotti regolarmente, tra cui:
 
 * Una durata massima di 60 minuti
-* Domande e risposte alla fine e chat esperti disponibili in tutto il webinar
+* Domande e risposte alla fine del webinar e chat con esperti
 * Registrazione disponibile dopo ogni webinar
-* Webinar gratuito
+* Il webinar è gratuito
 
-Tutti i nostri webinar GEM AEM sono gratuiti e condotti virtualmente.
+Tutti i nostri webinar AEM GEMs sono gratuiti e condotti virtualmente.
 
-Registrati a [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/) per ricevere notifiche sui nostri prossimi webinar.
+Registrati su [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/) per ricevere notifiche sui prossimi webinar.
 
 ## Community Experience League
 
-Nostro [Community Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) svolgere un ruolo fondamentale nel supportare l&#39;adozione dei prodotti e il successo dei clienti.
+Nostro [Community Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) svolge un ruolo fondamentale nel supporto dell’adozione dei prodotti e del successo dei clienti.
 
-* Connessione: Rete con colleghi e personale Adobe per assistenza e best practice, dall&#39;implementazione all&#39;espansione dell&#39;utilizzo dei prodotti
-* Risposte rapide: Ampio pool di casi d’uso reali per supportare un utilizzo attivo di successo delle soluzioni Adobe
-* Ideazione e feedback: Acquisire idee sui prodotti dei clienti e fornire un feedback VoC prezioso ai team di prodotto
+* Connessione: rete con colleghi e personale Adobe per indicazioni e best practice, dall’implementazione all’espansione dell’utilizzo dei prodotti
+* Quick Answers: un ampio pool di risposte ai casi d’uso reali per supportare l’uso attivo di successo delle soluzioni Adobe
+* Ideazione e feedback: acquisisci le idee dei clienti sui prodotti e fornisci feedback VoC ai team di prodotto
 
 

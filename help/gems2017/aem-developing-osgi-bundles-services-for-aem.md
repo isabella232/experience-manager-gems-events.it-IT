@@ -1,6 +1,6 @@
 ---
-title: Sviluppo di bundle e servizi OSGi per AEM
-description: Scopri quanto è facile sviluppare bundle e servizi OSGi per AEM. Questa sessione inizia con una breve introduzione ai concetti di base di OSGi.
+title: Sviluppo di pacchetti e servizi OSGi per l’AEM
+description: Scopri quanto è facile sviluppare bundle e servizi OSGi per l’AEM. Questa sessione inizia con una breve introduzione ai concetti di base di OSGi.
 uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 1%
 
 ---
 
-# Sviluppo di bundle e servizi OSGi per AEM{#developing-osgi-bundles-and-services-for-aem}
+# Sviluppo di pacchetti e servizi OSGi per l’AEM{#developing-osgi-bundles-and-services-for-aem}
 
-Scopri in questa sessione quanto è facile sviluppare bundle e servizi OSGi per AEM. Questa sessione inizia con una breve introduzione ai concetti di base di OSGi: bundle e servizi. Successivamente, dimostra l&#39;uso semplice e diretto di annotazioni ben consolidate per sviluppare bundle e servizi. Inoltre, sono inclusi suggerimenti e trucchi, nonché le best practice per facilitare lo sviluppo AEM ed evitare svantaggi e insidie.
+Scopri in questa sessione quanto è facile sviluppare bundle e servizi OSGi per l’AEM. Questa sessione inizia con una breve introduzione ai concetti di base di OSGi: bundle e servizi. In seguito, dimostra l’utilizzo semplice e intuitivo di annotazioni consolidate per sviluppare bundle e servizi. Sono inoltre inclusi suggerimenti e trucchi nonché best practice per facilitare lo sviluppo dell’AEM ed evitare svantaggi e insidie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
@@ -22,14 +22,14 @@ Scopri in questa sessione quanto è facile sviluppare bundle e servizi OSGi per 
 
 **Presentato da:**
 
-Carsten Ziegeler, Principale Scienziato, Adobe
+Carsten Ziegeler, Principal Scientist, Adobe
 
-Karl Pauls, scienziato informatico, Adobe
+Karl Pauls, Informatico, Adobe
 
-Chat Expert:\
+Esperto chat:\
 David Bosschaert, Senior Software Engineer, Adobe
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/aem-gems-osgi-best-practices-090617.pdf)
 

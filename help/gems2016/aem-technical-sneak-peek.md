@@ -1,6 +1,6 @@
 ---
-title: Sneak Peek Tecnico
-description: Unisciti a Gabriel Walt e Justin Edelson per dare un'occhiata a ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un discorso tecnico.
+title: Picco tecnico
+description: Unisciti a Gabriel Walt e Justin Edelson per uno sguardo su ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un discorso tecnico.
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 2%
 
 ---
 
-# Sneak Peek Tecnico{#technical-sneak-peek}
+# Picco tecnico{#technical-sneak-peek}
 
-Unisciti a Gabriel Walt e Justin Edelson per dare un&#39;occhiata a ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un discorso tecnico.
+Unisciti a Gabriel Walt e Justin Edelson per uno sguardo su ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un discorso tecnico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
@@ -23,9 +23,9 @@ Unisciti a Gabriel Walt e Justin Edelson per dare un&#39;occhiata a ciò a cui a
 **Presentato da:**
 
 * Gabriel Walt, Product Manager, Adobe
-* Justin Edelson, Architetto ed Evangelista, Adobe
+* Justin Edelson, architetto dell&#39;esperienza ed evangelista, Adobe
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--

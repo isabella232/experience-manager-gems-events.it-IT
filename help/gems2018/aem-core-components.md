@@ -1,31 +1,31 @@
 ---
 title: Componenti core AEM
-description: Scopri tutto sui componenti core e le relative funzioni, come funzionano e come cambiano il gioco. Scopri le strategie che ti consentono di ridurre il numero di componenti necessari per creare e mantenere in ordine di grandezza.
+description: Scopri tutto ciò che riguarda i Componenti core e le relative funzioni, il loro funzionamento e come stanno cambiando il gioco. Scopri le strategie che ti consentono di ridurre di un ordine di grandezza il numero di componenti da creare e mantenere.
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+exl-id: b177029f-0640-4522-b572-24d187f3ea47
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 6%
 
 ---
 
-
 # Componenti core AEM{#aem-core-components}
 
-Scopri tutto sui componenti core e le relative funzioni, come funzionano e come cambiano il gioco. Scopri le strategie che ti consentono di ridurre il numero di componenti necessari per creare e mantenere in ordine di grandezza.
+Scopri tutto ciò che riguarda i Componenti core e le relative funzioni, il loro funzionamento e come stanno cambiando il gioco. Scopri le strategie che ti consentono di ridurre di un ordine di grandezza il numero di componenti da creare e mantenere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*Consegnato 12/05/18*
+*Consegnato il 12/5/18*
 
 **Presentato da:**
 
 Gabriel Walt, Product Manager, Adobe
 
-[Documentazione sui componenti core di AEM](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[Documentazione dei Componenti core AEM](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
-AEM Gems - AEM Componenti Core - Data: 05/12/2018
+AEM Gems - Componenti core AEM - Data: 12/05/2018
 
 [Ottieni file](assets/aem-gems-aem-sitescorecomponents-12052018.pdf)

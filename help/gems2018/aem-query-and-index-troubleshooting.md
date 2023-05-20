@@ -1,6 +1,6 @@
 ---
-title: Risoluzione dei problemi relativi a query AEM e indice
-description: Questa è una continuazione della sessione dello scorso anno AEM Indexing e JCR Query. Riguarda gli stessi argomenti, ma con contenuti completamente nuovi e poco sovrapposti alla presentazione precedente. Sono incluse anche le nuove funzioni di AEM 6.4.
+title: Risoluzione dei problemi relativi a query e indici AEM
+description: Questa è una continuazione della sessione dello scorso anno, Indicizzazione AEM e Query JCR. Tratta gli stessi argomenti, ma con contenuti nuovi e con poche sovrapposizioni rispetto alla presentazione precedente. Sono incluse anche le nuove funzioni dell’AEM 6.4.
 page-status-flag: never-activated
 uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
@@ -15,15 +15,15 @@ ht-degree: 3%
 ---
 
 
-# Risoluzione dei problemi relativi a query AEM e indice{#aem-query-and-index-troubleshooting}
+# Risoluzione dei problemi relativi a query e indici AEM{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*08/08/2018*
+*Consegnato il 08/08/2018*
 
 **Presentato da:**
 
-Thomas Mueller, ingegnere senior del software, Adobe
+Thomas Mueller, ingegnere software senior, Adobe
 
 Data: 08/08/2018
 

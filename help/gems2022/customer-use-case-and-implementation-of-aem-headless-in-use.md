@@ -1,48 +1,49 @@
 ---
-title: Caso d’uso del cliente e implementazione di AEM headless in uso
-description: Annuncio della sessione
+title: Caso di utilizzo di un cliente e implementazione di AEM Headless in uso
+description: Annuncio sessione
 version: 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
+exl-id: 05c19b41-69d5-4400-85be-38e5a55ef2c1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# Funzione GEM AEM - Caso d’uso del cliente e implementazione di AEM Headless in uso
+# Funzione AEM GEM: caso di utilizzo di un cliente e implementazione di AEM Headless in uso
 
-*Questo webinar è stato condotto su **Mercoledì 12 ottobre - 15:00 UTC**. La registrazione è disponibile qui sotto.*
+*Questo webinar è stato condotto su **Mercoledì 12 ottobre - 15:00 UTC**. La registrazione è disponibile di seguito.*
 
-Questa sessione straordinaria AEM GEMs dispone di due altoparlanti che operano AEM come clienti. La sessione sarà suddivisa in due parti:
+Questa eccezionale sessione AEM GEMs ha due relatori che gestiscono AEM come clienti. La sessione sarà divisa in due parti, come segue:
 
-## Parte 1: AEM come CMS headless Dove/When/Why?
+## Parte 1: AEM come CMS headless Dove/Quando/Perché?
 
 Presentatore: Vengadesh Shanmugavelu - Architetto Tecnico, Qatar Airways
 
-**Descrizione della sessione:**
-Ci sono molti modi con cui possiamo implementare CMS headless tramite AEM.
-In questa sessione tratteremo i seguenti aspetti:
+**Descrizione sessione:**
+Esistono molti modi per implementare il CMS headless tramite l’AEM.
+In questa sessione, tratteremo i seguenti argomenti:
 
-* Servizi di contenuti tramite esportatore/servlet
-* Frammento di contenuto tramite API risorsa (demo)
+* Servizi di contenuti tramite esportazione/servlet
+* Frammento di contenuto tramite API delle risorse (demo)
 * Frammento di contenuto tramite graphql (demo)
-* Alcuni casi d’uso in tempo reale relativi all’uso dei frammenti di contenuto e dei relativi approcci
-* Apprendimenti SPA Editor (alcuni approcci della soluzione su quando scegliere) (demo)
+* Alcuni casi d’uso in tempo reale che riguardano l’utilizzo di frammenti di contenuto e i relativi approcci
+* Apprendimenti dell’editor SPA (approccio alla scelta della soluzione) (demo)
 
-## Parte 2: Fornire contenuti headless tramite API GraphQL e frammenti di contenuto
+## Parte 2: Distribuire contenuti headless tramite API GraphQL e frammenti di contenuto
 
-Presentatore: Debal Das - Senior System Analyst, IBM
+Presenter: Debal Das - Senior System Analyst, IBM
 
-**Descrizione della sessione:**
-In questa sessione verrà incluso il consumo GraphQL di frammenti di contenuto (oltre alle API JSON già esistenti).
+**Descrizione sessione:**
+In questa sessione, parleremo dell’utilizzo di frammenti di contenuto da parte di GraphQL (oltre alle API JSON già esistenti).
 
 Concettualmente, GraphQL è simile a una query di database SQL, con l&#39;eccezione che per la query viene utilizzata un&#39;API anziché un database.
 
-Questo elimina il requisito per l’API di fornire molti endpoint che distribuiscono vari volumi o gruppi di dati per vari clienti e consente a vari clienti di eseguire query sull’API per le proprie esigenze.
+Questo elimina la necessità per l’API di fornire molti endpoint che forniscono vari volumi o gruppi di dati per vari clienti e consente a vari client di eseguire query sull’API in base alle proprie esigenze.
 
 **Registrazione sessione**
 
@@ -50,5 +51,6 @@ Questo elimina il requisito per l’API di fornire molti endpoint che distribuis
 
 >[!NOTE]
 >
->* Per le interazioni specifiche della comunità di sessione sull&#39;Experience League, visita questo [Thread contestuale](https://adobe.ly/3r6P4nr)
->* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo utenti AEM Adobe](https://aem-augs.adobe.com/).
+>* Per le interazioni della community specifiche per sessione su Experience League, visita questo [Thread contestuale](https://adobe.ly/3r6P4nr)
+>* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+

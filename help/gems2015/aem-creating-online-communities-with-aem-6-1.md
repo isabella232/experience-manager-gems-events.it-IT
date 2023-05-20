@@ -1,6 +1,6 @@
 ---
 title: Creare community online con AEM 6.1
-description: Scopri come sfruttare la potente interfaccia di authoring di AEM per creare una community dinamica per i clienti e scoprire gli strumenti per mantenere il coinvolgimento della base di fan a lungo dopo il lancio.
+description: Scopri come sfruttare la potente interfaccia di authoring dell’AEM per creare una community di clienti dinamica e gli strumenti per mantenere attiva la base di fan molto dopo il lancio.
 uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Creare community online con AEM 6.1{#creating-online-communities-with-aem}
 
-Immaginate di poter stare in piedi un sito della comunità in ore piuttosto che settimane con poco o niente assistenza da parte dei vostri ingegneri CQ. AEM Communities 6.1 si concentrerà su questa funzionalità tramite un approccio basato su procedure guidate e modelli per coprire una serie di casi d’uso iniziali. AEM Communities 6.1 offrirà anche la possibilità di personalizzare ulteriormente questi nuovi siti della community tramite AEM WCM [!DNL Sites] funzionalità. Unisciti a noi per scoprire come sfruttare la potente interfaccia di authoring di AEM per creare una community dinamica per i clienti e scoprire gli strumenti per mantenere il coinvolgimento della tua base di fan a lungo dopo il lancio.
+Immagina di poter gestire un sito della community in poche ore anziché settimane senza l’assistenza degli ingegneri CQ. AEM Communities 6.1 si concentrerà sulla fornitura di questa funzionalità tramite un approccio basato su modelli guidato per coprire una varietà di casi d’uso iniziali. AEM Communities 6.1 consentirà inoltre di personalizzare ulteriormente questi nuovi siti della community tramite WCM AEM [!DNL Sites] funzionalità. Unisciti a noi per scoprire come sfruttare la potente interfaccia di authoring dell’AEM per creare una community di clienti dinamica e imparare gli strumenti per mantenere attiva la base di fan molto dopo il lancio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
@@ -24,7 +24,7 @@ Immaginate di poter stare in piedi un sito della comunità in ore piuttosto che 
 
 * Bertrand de Coatpont, Group Product Manager, Adobe
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/aem-6-1-communities-gems.pdf)
 <!--

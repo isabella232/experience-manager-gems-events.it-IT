@@ -1,6 +1,6 @@
 ---
-title: Integrazione delle traduzioni AEM 6.1 e best practice
-description: Visualizza una presentazione delle funzionalità di integrazione della traduzione avanzate in AEM. Scopri le best practice per la gestione di siti web multilingue.
+title: Integrazione della traduzione AEM 6.1 e best practice
+description: Ottieni una presentazione sulle funzionalità avanzate di integrazione della traduzione in AEM. Scopri le best practice per la gestione di siti web multilingue.
 uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 2%
 
 ---
 
-# Integrazione delle traduzioni AEM 6.1 e best practice{#aem-translation-integration-best-practices}
+# Integrazione della traduzione AEM 6.1 e best practice{#aem-translation-integration-best-practices}
 
-Cristine e Mathias presenteranno funzionalità di integrazione della traduzione avanzate in AEM e best practice per la gestione di siti web multilingue. Scoprirai come: strutturare siti web globali in AEM utilizzare copie in lingua / Live Copies/ MSM come integrare fornitori di servizi di traduzione per il completamento di progetti di traduzione
+Cristine e Mathias presenteranno funzionalità avanzate di integrazione della traduzione in AEM e best practice per la gestione di siti Web multilingue. Scoprirai come: strutturare i siti web globali in AEM utilizzare copie in lingua/live copy/MSM come integrare i fornitori di servizi di traduzione per il completamento corretto dei progetti di traduzione
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
@@ -22,10 +22,10 @@ Cristine e Mathias presenteranno funzionalità di integrazione della traduzione 
 
 **Presentato da:**
 
-* Christine Duran, Sr Manager Tecnologie di traduzione, Adobe
+* Christine Duran, Sr Manager Tecnologie Di Traduzione, Adobe
 * Mathias Siegel, Sr Product Manager, Adobe
 
-**Diapositive del relatore**
+**Diapositive presentatore**
 
 [Ottieni file](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
